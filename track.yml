@@ -5,8 +5,10 @@ track:
     topics:
     -   title: Equality through matching
         uuid: 591a870e-901f-45b6-9e9a-7967b10a72ff
-        lessons:
+        units:
         -   title: Like double equals but different
+            uuid: cf93961e-df00-4af0-914b-86cf26314f41
+            lessons: []
     -   title: SeaBassMQ
         uuid: 26a16d6e-9c7c-4a0d-b087-680f1a02f399
         units: []
