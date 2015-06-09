@@ -9,7 +9,9 @@ track:
         -   title: Like double equals but different
             uuid: cf93961e-df00-4af0-914b-86cf26314f41
             lessons: []
-        - title: catching errors
+        -   title: catching errors
+            uuid: 889f2ee0-f28c-40db-a1ab-0566b1a94392
+            lessons: []
     -   title: SeaBassMQ
         uuid: 26a16d6e-9c7c-4a0d-b087-680f1a02f399
         units: []
